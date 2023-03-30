@@ -1,0 +1,23 @@
+{
+  "name": "furukawa-theme",
+  "displayName": "Furukawa Theme",
+  "description": "furukawa theme",
+  "publisher": "superfurukawa",
+  "repository": "superfurukawa/vscode-furukawa-theme",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Furukawa Red Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/furukawa-red-color-theme.json"
+      }
+    ]
+  }
+}
