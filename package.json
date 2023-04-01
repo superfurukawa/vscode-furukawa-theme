@@ -4,7 +4,7 @@
   "description": "furukawa theme",
   "publisher": "superfurukawa",
   "repository": "superfurukawa/vscode-furukawa-theme",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -17,6 +17,11 @@
         "label": "Furukawa Red Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/furukawa-red-color-theme.json"
+      },
+      {
+        "label": "Furukawa Pop Theme",
+        "uiTheme": "vs",
+        "path": "./themes/furukawa-pop-color-theme.json"
       }
     ]
   }
