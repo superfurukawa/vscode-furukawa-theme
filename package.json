@@ -4,7 +4,8 @@
   "description": "furukawa theme",
   "publisher": "superfurukawa",
   "repository": "superfurukawa/vscode-furukawa-theme",
-  "version": "1.1.0",
+  "version": "1.1.1",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.76.0"
   },
