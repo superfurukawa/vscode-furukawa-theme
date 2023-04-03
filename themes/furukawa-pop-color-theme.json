@@ -68,7 +68,7 @@
 		"button.secondaryBackground": "#79d4fe",
 		"button.secondaryHoverBackground": "#35b2ec",
 		"input.background": "#c0fff8",
-		"input.border": "#ff004f00",
+		"input.border": "#c7bcff",
 		"input.foreground": "#000000",
 		"inputOption.activeBackground": "#79d4fe",
 		"inputOption.activeBorder": "#9fcfe100",

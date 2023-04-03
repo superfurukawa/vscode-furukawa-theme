@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.1.2] - 2023-04-03
+
+- Input border color change
+
 ## [1.1.1] - 2023-04-01
 
 - Add icon
