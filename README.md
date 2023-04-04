@@ -1,6 +1,6 @@
 # Furukawa Theme
 
-## superfurukawa's theme
+superfurukawa's theme
 
 ## Screenshot
 
